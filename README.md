@@ -4,6 +4,7 @@ Here you'll find implementations of popular algorithms and data structures.
 ## DATA  STRUCTURES
 
 - [DEQUE](Deque/)
+- [Stack](Stack/)
 
 
 
