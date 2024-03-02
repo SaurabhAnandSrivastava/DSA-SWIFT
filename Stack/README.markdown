@@ -93,10 +93,15 @@ print("Item count in stack \(stack.count)")
 Stacks are commonly used in many areas of computer science and software development, including:
 
 Algorithm implementations: Stacks are used in various algorithms such as depth-first search (DFS), backtracking, and expression evaluation.
+
 Function call management: Function call frames are typically managed using a stack in programming languages.
+
 Memory management: Stack memory is used for storing local variables and function call information.
+
 Parsing and syntax analysis: Stacks are used in parsing algorithms like recursive descent parsers.
+
 Undo mechanisms: Stacks can be used to implement undo functionality in applications.
+
 Overall, stacks provide a simple and efficient way to manage data where the order of access is important, and they are a fundamental building block of many algorithms and systems in computer science.
 
 
